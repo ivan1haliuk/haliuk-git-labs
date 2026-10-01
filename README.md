@@ -14,4 +14,4 @@
 | 2 | Віддалений репозиторій | Виконано |
 | 3 | Створення гілок | Виконано |
 
-![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)Виправлення помилки для Issue
